@@ -1,3 +1,4 @@
+# calculate gcd also, gcd(a,b)*lcm(a,b) = a*b
 def lcm(a, b):
     """
     Simple version of lcm, that does not have any dependencies
